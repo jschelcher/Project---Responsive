@@ -72,10 +72,9 @@
   .email-link {
     display: flex;
     justify-content: center;
-    color: var(--primary-color);
+    color: var(--background);
     font-size: 28px;
-    text-decoration: none;
-  }
+    text-decoration: none;}
   
   .email-link:hover {
     text-decoration: underline;
@@ -132,3 +131,8 @@
   .yoga {padding:20px;}
   .weather {padding:20px;}
   .yogurt {padding:20px;}
+  .jordan {padding:20px;}
+
+.meet-jordan {font-size: large;}
+
+  #contact {padding: 10px;}
