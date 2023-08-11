@@ -65,20 +65,12 @@
     margin: 30px 0;
   }
   
-  .about-paragraphs p {
-    margin: 10px;
-  }
-  
   .email-link {
     display: flex;
     justify-content: center;
     color: var(--background);
     font-size: 28px;
     text-decoration: none;}
-  
-  .email-link:hover {
-    text-decoration: underline;
-  }
   
   .pages {
     display: flex;
@@ -105,18 +97,6 @@
     box-shadow: var(--box-shadow);
   }
   
-  .about-paragraphs {
-    display: flex;
-    margin: 30px;
-    background-color: var(--primary-color);
-    color: var(--background);
-    padding:40px;
-    border-radius: 4px;
-    font-size: 18px;
-    line-height: 1.5;
-    text-align: center;
-  }
-  
   .primary-link {
     border-radius: 4px;
     padding: 20px 15px;
@@ -128,11 +108,8 @@
   }
   .container {padding: 20px;}
 
-  .yoga {padding:20px;}
-  .weather {padding:20px;}
-  .yogurt {padding:20px;}
-  .jordan {padding:20px;}
+  .work{padding:20px;}
 
-.meet-jordan {font-size: large;}
+.content {font-size: large;}
 
   #contact {padding: 10px;}
