@@ -110,7 +110,15 @@
 
   .work{padding:20px;}
 
-.content {font-size: large;}
+.content {font-size: large; 
+  display: flex;
+  justify-content: center;
+  color: var(--background);
+  font-size: 28px;
+  text-decoration: none;}
+
+
 .add-info {line-height: none; 
   padding:10px;}
-  #contact {padding: 10px;}
+
+.contact {padding: 10px;}
