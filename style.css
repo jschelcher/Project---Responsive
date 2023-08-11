@@ -111,5 +111,6 @@
   .work{padding:20px;}
 
 .content {font-size: large;}
-
+.add-info {line-height: none; 
+  padding:10px;}
   #contact {padding: 10px;}
