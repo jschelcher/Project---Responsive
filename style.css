@@ -162,9 +162,3 @@ footer .contact-box p {
   padding:10px;}
 
 .contact {padding: 10px;}
-
-@media (max-width:900px) {
-footer .contact-box { 30px}
-h4 {18px}
-.btn {font-size: 10px;}
-}
